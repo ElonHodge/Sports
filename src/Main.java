@@ -20,7 +20,7 @@ public class Main {
                 "Caden Vazquez WR 24 5.9 178 8 PennState 7 MiamiDolphins",
                 "Journee McCann WR 30 6.4 221 3 NorthCarolina 9 NewEnglandPatriots",};
 
-         
+
         }
     }
 
